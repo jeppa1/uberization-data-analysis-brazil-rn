@@ -1,4 +1,4 @@
-#  O Paradoxo da Uberização: Análise de Dados (Brasil vs. RN)
+#  O Paradoxo da Uberização: Análise de Dados (Brasil, Nordeste e RN)
 
 > Uma investigação quantitativa sobre a precarização do trabalho, saturação de mercado e desigualdades regionais no setor de transporte informal (2012-2025).
 
